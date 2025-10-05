@@ -1,3 +1,7 @@
+// Author: James Sutter
+// Date: 18 Oct 2025
+// Language: C++
+// Description: Create a simple version of Pong using C++
 #include <Windows.h>
 #include "Game.h"
 #include <string>
