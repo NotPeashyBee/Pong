@@ -1,0 +1,9 @@
+﻿  Ball.cpp
+  Game.cpp
+C:\Users\jimmy\Documents\Pong\Pong\Pong\Game.cpp(41,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jimmy\Documents\Pong\Pong\Pong\Game.cpp(42,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Paddle.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\jimmy\Documents\Pong\Pong\x64\Debug\Pong.exe : fatal error LNK1120: 1 unresolved externals
